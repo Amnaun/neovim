@@ -47,8 +47,6 @@ augroup highlight_yank
 augroup END
 ]])
 
-
-
 -- 设置 Python 虚拟环境路径
 vim.g.python3_host_prog = "/Users/zirs/miniforge3/envs/zirs_env/bin/python"
 
