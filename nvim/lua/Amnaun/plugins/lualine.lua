@@ -18,7 +18,7 @@ return {
 		}
 
 		local function zirs()
-			return [[Zirs 🦁]]
+			return [[Amnaun 🦁]]
 		end
 
 		local function clockIcon()

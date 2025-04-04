@@ -11,7 +11,7 @@ if vim.fn.isdirectory(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup({ { import = "zirs.plugins" }, { import = "zirs.plugins.lsp" } }, {
+require("lazy").setup({ { import = "Amnaun.plugins" }, { import = "Amnaun.plugins.lsp" } }, {
 	install = {
 		--[[ colorscheme = { "catppuccin" }, ]]
 		colorscheme = { "tokyonight" },

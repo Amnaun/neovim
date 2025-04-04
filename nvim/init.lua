@@ -1,5 +1,5 @@
-require("zirs.core")
-require("zirs.lazy")
+require("Amnaun.core")
+require("Amnaun.lazy")
 vim.g.neovide_curor_vfx_mode = "railgun" --设置主题
 vim.g.neovide_cursor_vfx_opacity = 200 --设置粒子透明度
 vim.g.neovide_refresh_rate = 165 --设置刷新率
